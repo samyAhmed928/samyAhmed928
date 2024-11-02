@@ -30,7 +30,7 @@ I’m here to connect, learn, and contribute to projects that make an impact!
 
 # 📊 GitHub Stats:
 
-
+![Samy Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyAhmed928&show_icons=true&theme=tokyonight)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samyAhmed928&theme=dark&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samyAhmed928&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
